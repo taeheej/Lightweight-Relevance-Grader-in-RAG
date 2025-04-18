@@ -1,7 +1,8 @@
 # Lightweight-Relevance-Grader-in-RAG
 Companion code for the ICICT2025 paper: Lightweight Relevance Grader in RAG
 
-eval_v1.ipynb shows how to evaluate original Llama-3.2-1B-Instruct using test dataset.
+
+## eval_v1.ipynb shows how to evaluate original Llama-3.2-1B-Instruct using test dataset.
 
 To run  this notebook, you need to install torch, datasets, and transformers.
 
@@ -13,7 +14,7 @@ Please contact me if you need this file.
 
 
 
-eval_v2.ipynb shows how to evaluate finetuned Llama-3.2-1B with LM head using test dataset.
+## eval_v2.ipynb shows how to evaluate finetuned Llama-3.2-1B with LM head using test dataset.
 
 To run  this notebook, you need to install torch, datasets, and transformers.
 
